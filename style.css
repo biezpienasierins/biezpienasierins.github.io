@@ -1,0 +1,16 @@
+html{
+	background-color: purple;
+	color: white;
+	font-family: arial;
+}
+.container {
+  display: flex;
+}
+img {
+	max-width:100%;
+	max-height:100%;
+}
+pre{
+	font-size: 20px;  
+	font-family: arial;
+}
